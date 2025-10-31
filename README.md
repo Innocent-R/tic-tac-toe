@@ -14,3 +14,5 @@ I learned how to use arrays, variables, conditions and functions in JavaScript a
 
 ![tictatoe image](tictactoe.png)
 
+Find the live project here https://innocent-r.github.io/tic-tac-toe/
+
