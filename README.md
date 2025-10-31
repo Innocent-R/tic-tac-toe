@@ -1,5 +1,5 @@
 # My Tic-Tac-Toe project
-My Tic-Tac-Toe is a game played by two players X and O and each one has a turn. If a player matches 3 cells being in a row, column or diagonal, the roundCompleted function says that the player won the game. 
+My Tic-Tac-Toe game is played by two players, X and O, who take turns. If a player aligns three marks in a row, column, or diagonal, the roundCompleted function declares that player as the winner.
 
 
 
